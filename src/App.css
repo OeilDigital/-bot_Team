@@ -1,0 +1,34 @@
+.App {
+  text-align: center;
+}
+
+img {
+  width: auto;
+  height: 20vh;
+  margin: 2vh 0;
+  border: 1px solid rgb(194, 189, 189);
+  box-shadow: 0 0 5px grey;
+}
+
+button {
+  margin: 2vw 0;
+}
+
+/*-------------------------------TEAM (affichage) --------------------------------*/
+
+.team {
+  margin-top: 4vh;
+  width: 100vw;
+  height: auto;
+  display: flex;
+  justify-content: space-around;
+}
+
+.player {
+  padding-top: 10px;
+  width: 14vw;
+  height: 45vh;
+  border: 1px solid rgb(179, 176, 176);
+  border-radius: 10px;
+  box-shadow: 0 0 5px #4a4b4b;
+}
